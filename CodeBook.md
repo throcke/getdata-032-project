@@ -62,5 +62,5 @@ Therefore, the Variables are described as below:
 ......
 
 # Notes:
-Other estimates have been removed for the purpose of this excercise.
-Features are normalized and bounded within [-1,1].
+- Other estimates have been removed for the purpose of this excercise.
+- Features are normalized and bounded within [-1,1].
